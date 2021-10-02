@@ -6,3 +6,6 @@ printf("Hello World");
 
 # Kotlin Language
 println("Hello, world!")
+
+# Javascript
+document.write("Hello World!");
